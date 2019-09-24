@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+}
+
+.title {
+	font-family: nanum myeongjo;
+	font-size: 80px;
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	margin: auto;
+	padding-top: 10px;
+}
+
+h2{
+	font-family: nanum myeongjo;
+	font-size: 30px;
+	text-align: center;
+	color: black;
+}
+
+h3 {
+	font-family: nanum myeongjo;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+body {
+  background-color: #CC5500;
+}
+
+img {
+  	height: auto;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+
+}
+
+.logo {
+	position:absolute;
+	left:0;
+	top:0;
+}
